@@ -1,16 +1,77 @@
-# final_food
+# 🍽️ Meal Explorer
 
-A new Flutter project.
+A Flutter meal discovery application that allows users to explore meals, search for recipes, browse categories, view detailed recipes, save favorites, share recipes, and interact with an AI meal assistant.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 🔎 Search for meals by name
+* 🗂️ Browse meals by categories
+* 📖 View detailed recipes, ingredients, measurements, and instructions
+* ❤️ Save and remove favorite meals
+* 📤 Share recipes
+* ▶️ Open recipe videos on YouTube
+* 🤖 AI Meal Assistant for cooking and recipe-related questions
+* 🎨 Clean and responsive Flutter UI
+* 🌐 Real-time meal data using TheMealDB API
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* TheMealDB API
+* OpenRouter API
+* HTTP
+* SharedPreferences
+* flutter_dotenv
+* share_plus
+* url_launcher
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔌 APIs
+
+### TheMealDB
+
+The application uses TheMealDB API to retrieve meal information, categories, recipes, ingredients, instructions, and meal images.
+
+### OpenRouter
+
+OpenRouter is used to power the AI Meal Assistant, which provides help with cooking, recipes, ingredients, meals, and the application itself.
+
+> The OpenRouter API key is stored locally in a `.env` file and is excluded from Git using `.gitignore`.
+
+## 📱 Screenshots
+
+Screenshots of the application will be added here.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or another Flutter-compatible IDE
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ohoodjammal/meal-explorer-flutter.git
+```
+
+Navigate to the project:
+
+```bash
+cd meal-explorer-flutter
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Create a `.env` file in the project root:
+
+```env
+OPENROUTER_API_KEY=your_api_key_here
+```

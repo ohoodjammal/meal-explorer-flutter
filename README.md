@@ -3,7 +3,7 @@
 A Flutter meal discovery application that allows users to explore meals, search for recipes, browse categories, view detailed recipes, save favorites, share recipes, and interact with an AI meal assistant.
 
 ## ✨ Features
-
+ش
 * 🔎 Search for meals by name
 * 🗂️ Browse meals by categories
 * 📖 View detailed recipes, ingredients, measurements, and instructions
@@ -43,15 +43,14 @@ OpenRouter is used to power the AI Meal Assistant, which provides help with cook
 <p align="center">
   <img src="screenshots/Screenshot%202026-09-08%20184850.png" width="180">
   <img src="screenshots/Screenshot%202026-09-08%20185543.png" width="180">
+  <img src="screenshots/Screenshot%202026-09-08%20185817.png" width="180">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot%202026-09-08%20185817.png" width="180">
-
-    <img src="screenshots/Screenshot%202026-09-08%20185137.png" width="180">
-
+  <img src="screenshots/Screenshot%202026-09-08%20185137.png" width="180">
   <img src="screenshots/Screenshot%202026-09-08%20185851.png" width="180">
 </p>
+
 ## 🚀 Getting Started
 
 ### Prerequisites

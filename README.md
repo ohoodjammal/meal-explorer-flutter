@@ -42,11 +42,12 @@ OpenRouter is used to power the AI Meal Assistant, which provides help with cook
 
 <p align="center">
   <img src="screenshots/Screenshot%202026-09-08%20184850.png" width="180">
-  <img src="screenshots/Screenshot%202026-09-08%20185817.png" width="180">
+  <img src="screenshots/Screenshot%202026-09-08%20185543.png" width="180">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot%202026-09-08%20185543.png" width="180">
+  <img src="screenshots/Screenshot%202026-09-08%20185817.png" width="180">
+
     <img src="screenshots/Screenshot%202026-09-08%20185137.png" width="180">
 
   <img src="screenshots/Screenshot%202026-09-08%20185851.png" width="180">

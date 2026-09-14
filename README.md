@@ -61,6 +61,12 @@ OpenRouter is used to power the AI Meal Assistant, which provides help with cook
 * Dart SDK
 * Android Studio or another Flutter-compatible IDE
 
+### Prerequisites
+
+* Flutter SDK
+* Dart SDK
+* Android Studio or another Flutter-compatible IDE
+
 ### Installation
 
 Clone the repository:
@@ -68,3 +74,55 @@ Clone the repository:
 ```bash
 git clone https://github.com/ohoodjammal/meal-explorer-flutter.git
 cd meal-explorer-flutter
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+OPENROUTER_API_KEY=your_api_key_here
+```
+
+Make sure `.env` is included in `.gitignore`.
+
+## ▶️ Run the Application
+
+```bash
+flutter run
+```
+
+## 🎯 What I Practiced
+
+* Flutter application development
+* REST API integration
+* JSON data handling
+* SharedPreferences for local storage
+* Search and filtering
+* AI API integration
+* Environment variable management
+* External package integration
+* Building a complete mobile application
+
+## 🔮 Future Improvements
+
+* User authentication
+* Cloud synchronization for favorites
+* More automated tests
+* Publish the application
+* Personalized meal recommendations
+
+## 👩‍💻 Developer
+
+**Ohood Mayyas**
+
+Computer Science Student | Flutter Developer
+
+* GitHub: https://github.com/ohoodjammal
+* LinkedIn: https://www.linkedin.com/in/ohood-jamal-7004b5338

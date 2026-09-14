@@ -61,12 +61,6 @@ OpenRouter is used to power the AI Meal Assistant, which provides help with cook
 * Dart SDK
 * Android Studio or another Flutter-compatible IDE
 
-### Prerequisites
-
-* Flutter SDK
-* Dart SDK
-* Android Studio or another Flutter-compatible IDE
-
 ### Installation
 
 Clone the repository:
